@@ -1,1 +1,1 @@
-# pangea_slackBot
+# Slack Sentry
